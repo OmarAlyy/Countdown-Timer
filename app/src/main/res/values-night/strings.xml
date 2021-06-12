@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_the_number_of_minutes">Enter the number of minutes</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+</resources>

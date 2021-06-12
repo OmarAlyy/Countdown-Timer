@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Countdown-Timer</string>
+    <string name="enter_the_number_of_minutes">Enter the number of minutes</string>
+    <string name="start">Start</string>
+    <string name="reset">Reset</string>
+</resources>
